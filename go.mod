@@ -1,4 +1,4 @@
-module github.com/osmosis-labs/osmosis/v22
+module github.com/Ryz0nd/osmosis/v22
 
 go 1.21
 
@@ -29,6 +29,7 @@ require (
 	github.com/osmosis-labs/go-mutesting v0.0.0-20221208041716-b43bcd97b3b3
 	github.com/osmosis-labs/osmosis/osmomath v0.0.8
 	github.com/osmosis-labs/osmosis/osmoutils v0.0.8
+	github.com/osmosis-labs/osmosis/v22 v22.0.0-alpha0
 	github.com/osmosis-labs/osmosis/x/epochs v0.0.4
 	github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.10
 	github.com/osmosis-labs/sqs v0.0.0-20240109224414-786ae137f7c4
@@ -77,7 +78,6 @@ require (
 	github.com/aws/aws-sdk-go v1.44.224 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/btcsuite/btcd/btcec/v2 v2.3.2 // indirect
-	github.com/btcsuite/btcd/btcutil v1.1.3 // indirect
 	github.com/butuzov/mirror v1.1.0 // indirect
 	github.com/catenacyber/perfsprint v0.2.0 // indirect
 	github.com/ccojocar/zxcvbn-go v1.0.1 // indirect
@@ -101,7 +101,6 @@ require (
 	github.com/felixge/httpsnoop v1.0.2 // indirect
 	github.com/getsentry/sentry-go v0.23.0 // indirect
 	github.com/ghostiam/protogetter v0.2.3 // indirect
-	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/gogo/googleapis v1.4.1 // indirect
 	github.com/google/btree v1.1.2 // indirect
 	github.com/google/s2a-go v0.1.7 // indirect
@@ -119,7 +118,6 @@ require (
 	github.com/kkHAIKE/contextcheck v1.1.4 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
-	github.com/leodido/go-urn v1.2.4 // indirect
 	github.com/linxGnu/grocksdb v1.7.16 // indirect
 	github.com/macabu/inamedparam v0.1.2 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
@@ -227,7 +225,7 @@ require (
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/godbus/dbus v0.0.0-20190726142602-4481cbc300e2 // indirect
 	github.com/gofrs/flock v0.8.1 // indirect
-	github.com/gogo/protobuf v1.3.2 // indirect
+	github.com/gogo/protobuf v1.3.3 // indirect
 	github.com/golang/glog v1.1.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/snappy v0.0.4 // indirect
